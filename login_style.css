@@ -1,0 +1,45 @@
+/* LOGIN.PHP CSS*/
+#body
+{
+	background-image:url('images/pexels-dominika-roseclay-1036808.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.login-container 
+{
+    float: right;
+    width: 500px;
+    height: 300px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-right: 100px; 
+    font-family: Roboto;
+}
+h1
+{
+	color: #1b1a17;
+	margin-bottom: 40px;
+
+}
+.error
+{
+    background-color: #F54741;
+    color: white;
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+}
+.success
+{
+    background-color: #45b337;
+    color: white;
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+}
+a.text-decoration-none
+{
+    font-size: 15px;
+}
+/*END OF LOGIN.PHP CSS*/
